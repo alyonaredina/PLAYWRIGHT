@@ -1,0 +1,19 @@
+{
+  "name": "jsaqa_3_2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "author": "Alyona Redina",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.48.2",
+    "@types/node": "^22.8.7",
+    "playwright": "^1.12.3"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "description": ""
+}
